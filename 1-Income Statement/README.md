@@ -36,4 +36,3 @@ In the month of February, to take their business to the next level, management o
 - Paid petrol bill for delivery ₹ 7,500
 - Marketing expense of February was ₹ 1,75,000 which included newspaper advertisements.
 - Sales in the month of February was ₹1,54,00,000. All the purchased Mobiles were sold in the month of February.
->>>>>>> Module-1
