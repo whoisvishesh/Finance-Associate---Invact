@@ -8,6 +8,9 @@ Ramesh Gupta started a retail mobile store ‘Gupta Mobiles’ on the 1st of Nov
 
 Looking at the upcoming diwali festival, they hosted a lucky draw contest to attract customers. The Gift distributed in this lucky draw cost them ₹ 45,000, which will be recorded under advertisement expense. They provide chai and snacks to their staff and customers. The total bill for chai and snacks of November month was ₹17,000. The electricity bill for the month of November was ₹ 10,000. The total sales in November Month was  ₹ 90,00,000.  
 
+![image](https://user-images.githubusercontent.com/113035606/226910995-d4307cbf-f019-4555-b3ec-d4488b10c14b.png)
+
+
 ## **Gupta Mobiles Business Story**
 
 ### 🔰 **December**
