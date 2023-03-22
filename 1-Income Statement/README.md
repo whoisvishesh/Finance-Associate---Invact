@@ -4,7 +4,7 @@
 
 ### 🔰 **Overview**
 
-Ramesh Gupta started a retail mobile store ‘Gupta Mobiles’ on the 1st of November 2022. Gupta Mobiles rented a shop in Marathahalli, Bengaluru for ₹ 1,00,000 per month and hired 4 sales persons whom they agreed to pay ₹ 10,000 each as their salary. Gupta Mobiles purchased phones of various brands worth ₹ 1,00,00,000. in November. 
+Ramesh Gupta started a retail mobile store ‘Gupta Mobiles’ on the 1st of November 2022. Gupta Mobiles rented a shop in Marathahalli, Bengaluru for ₹ 1,00,000 per month and hired 4 sales persons whom they agreed to pay ₹ 10,000 each as their salary. Gupta Mobiles purchased phones of various brands worth ₹ 1,00,00,000. in November.
 
 Looking at the upcoming diwali festival, they hosted a lucky draw contest to attract customers. The Gift distributed in this lucky draw cost them ₹ 45,000, which will be recorded under advertisement expense. They provide chai and snacks to their staff and customers. The total bill for chai and snacks of November month was ₹17,000. The electricity bill for the month of November was ₹ 10,000. The total sales in November Month was  ₹ 90,00,000.  
 
